@@ -1,5 +1,3 @@
--- ts file was generated at discord.gg/25ms
-
 
 local vu1 = {}
 local vu2 = game:GetService("TweenService")
